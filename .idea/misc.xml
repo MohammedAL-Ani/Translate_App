@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable-v24/close.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/copy.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/ic_baseline_swap_vert_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/left_top_round_white.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/loop_arrow_dark.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/right_bottom_round.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/right_left_inbar.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/round_button.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/sahpe1.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/drawable/share.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/layout/myspinner.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/Mytest/app/src/main/res/layout/spinner_items.xml" value="0.19635416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
